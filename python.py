@@ -84,8 +84,8 @@
 #         print("*", end="")
 #     print()
 ##13-masala
-a = 0
-b = 1
+# a = 0
+# b = 1
 # print("Fibonachchining birinchi 10 ta soni:")
 # for _ in range(10):
 #     print(a, end=" ")
